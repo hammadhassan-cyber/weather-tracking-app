@@ -1,16 +1,3 @@
-"""
-Weather Tracking Dashboard with History Storage
-================================================
-A professional Python application for tracking real-time weather data
-and storing historical records for analysis.
-
-Requirements:
-    pip install requests matplotlib
-
-Usage:
-    python weather_dashboard.py
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import requests
